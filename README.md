@@ -1,12 +1,12 @@
 # libmy_EPITECH
 (Library made for Epitech)
 
-Fonctions en C
+# Fonctions en C
 
 Ce fichier contient plusieurs fonctions écrites en langage C qui peuvent être utilisées pour différents projets.
 Fonctions disponibles
 
-Voici la liste des fonctions disponibles dans ce fichier :
+# Voici la liste des fonctions disponibles dans ce fichier :
 
     my_array_length : renvoie la longueur d'un tableau de chaîne de caractères.
     my_getnbr : convertit une chaîne de caractères en un nombre entier.
@@ -23,7 +23,7 @@ Voici la liste des fonctions disponibles dans ce fichier :
     my_strcpy : copie une chaîne de caractères dans une autre chaîne de caractères.
     my_strlen : renvoie la longueur d'une chaîne de caractères.
 
-Comment utiliser ces fonctions ?
+# Comment utiliser ces fonctions ?
 
 Il vous suffit d'inclure ce fichier dans votre programme. Vous pouvez également consulter les commentaires dans le code source pour plus d'informations sur chaque fonction.
 À propos de l'auteur
