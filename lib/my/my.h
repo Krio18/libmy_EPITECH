@@ -25,12 +25,16 @@
     void my_putchar(char c);
     void my_putstr(char *str);
     double racine_carre(double n);
-    void my_sprintf(char* str, int nbr);
+    void my_sprintf(char *str, int nbr);
     char **my_str_to_word_array(char *str);
     char *my_strcpy(char *dest, char const *src);
     int my_strlen(char const *str);
     char *my_strcat(char *dest, const char *src);
     int my_array_length(char **tab);
     int my_strcmp(char const *src1, char const *src2);
+    char *my_getenv(char *name, char **envp);
+    char **my_str_to_tab(char *str);
+    int my_strncmp(char *s1, char *s2, int n);
+    char *my_strncpy(char *dest, const char *src, int n);
 
 #endif
