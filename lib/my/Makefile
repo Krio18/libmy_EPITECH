@@ -19,6 +19,10 @@ SRC	=	my_getnbr.c	\
 		my_strcat.c	\
 		my_array_length.c	\
 		my_strcmp.c	\
+		my_strncmp.c	\
+		my_strncpy.c	\
+		my_getenv.c	\
+		my_str_to_tab.c	\
 
 OBJ	=	$(SRC:.c=.o)
 
