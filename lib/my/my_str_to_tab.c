@@ -39,7 +39,7 @@ char **my_str_to_tab(char *str)
 
     tab[count_words(str)] = NULL;
     for (int y = 0; y < count_words(str); y++) {
-        for(i = j; str[i] != '\n' && str[i] != '\0'; i++);
+        for (i = j; str[i] != '\n' && str[i] != '\0'; i++);
         tab[y] = malloc(sizeof(char) * (i - j + 1));
         for (i = j; str[i] != '\n' && str[i] != '\0'; i++)
             tab[y][i - j] = str[i];

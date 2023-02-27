@@ -24,7 +24,7 @@
     void my_put_nbr(int nb);
     void my_putchar(char c);
     void my_putstr(char *str);
-    double racine_carre(double n);
+    double square_root(double n);
     void my_sprintf(char *str, int nbr);
     char **my_str_to_word_array(char *str);
     char *my_strcpy(char *dest, char const *src);
