@@ -1,8 +1,8 @@
 /*
 ** EPITECH PROJECT, 2023
-** B-MUL-100-LYN-1-1-myradar-killian.cottrelle
+** libmy_EPITECH
 ** File description:
-** my_str_to_world_array
+** my_str_to_tab
 */
 
 #include "my.h"

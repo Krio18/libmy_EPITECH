@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2023
-** B-MUL-100-LYN-1-1-myradar-killian.cottrelle
+** libmy_EPITECH
 ** File description:
 ** my_square_root
 */

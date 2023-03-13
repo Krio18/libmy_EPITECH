@@ -1,8 +1,8 @@
 /*
 ** EPITECH PROJECT, 2023
-** B-PSU-200-LYN-2-1-minishell1-killian.cottrelle
+** libmy_EPITECH
 ** File description:
-** strcat
+** my_strcat
 */
 
 #include "my.h"

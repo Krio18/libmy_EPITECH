@@ -1,8 +1,8 @@
 /*
-** EPITECH PROJECT, 2022
-** my_putchar.c
+** EPITECH PROJECT, 2023
+** libmy_EPITECH
 ** File description:
-** write char
+** my_putchar
 */
 
 #include "my.h"

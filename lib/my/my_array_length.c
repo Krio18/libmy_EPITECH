@@ -1,8 +1,8 @@
 /*
 ** EPITECH PROJECT, 2023
-** B-PSU-200-LYN-2-1-minishell1-killian.cottrelle
+** libmy_EPITECH
 ** File description:
-** my_put_array_lenght
+** my_array_length
 */
 
 #include "my.h"

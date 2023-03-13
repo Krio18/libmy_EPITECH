@@ -1,8 +1,8 @@
 /*
 ** EPITECH PROJECT, 2023
-** B-CPE-110-LYN-1-1-antman-killian.cottrelle
+** libmy_EPITECH
 ** File description:
-** help_fonction
+** my_help_function
 */
 
 #include "my.h"

@@ -1,6 +1,6 @@
 ##
-## EPITECH PROJECT, 2022
-## delivery
+## EPITECH PROJECT, 2023
+## libmy_EPITECH
 ## File description:
 ## Makefile
 ##

@@ -1,6 +1,6 @@
 /*
-** EPITECH PROJECT, 2022
-** B-CPE-110-LYN-1-1-BSQ-killian.cottrelle
+** EPITECH PROJECT, 2023
+** libmy_EPITECH
 ** File description:
 ** my_getnbr
 */

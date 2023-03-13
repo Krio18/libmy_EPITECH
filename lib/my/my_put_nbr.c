@@ -1,6 +1,6 @@
 /*
-** EPITECH PROJECT, 2022
-** undefined
+** EPITECH PROJECT, 2023
+** libmy_EPITECH
 ** File description:
 ** my_put_nbr
 */
