@@ -26,6 +26,7 @@ Fonctions disponibles
     my_strncmp : Compare x caractères entre deux chaînes de caractères.
     my_str_to_tab : Divise un paragraphe en phrases et stocke les phrases dans un tableau.
     my_getenv : Renvoie la valeur de l'environnement associée à la chaîne de caractères spécifiée.
+    my_strdup : Duplique une chaine de caractères.
 
 # Comment utiliser ces fonctions ?
 
