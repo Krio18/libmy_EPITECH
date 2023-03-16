@@ -23,7 +23,8 @@ SRC	=	my_getnbr.c	\
 		my_strncpy.c	\
 		my_getenv.c	\
 		my_str_to_tab.c	\
-		my_strdup	\
+		my_strdup.c	\
+		my_open_file.c	\
 
 OBJ	=	$(SRC:.c=.o)
 
