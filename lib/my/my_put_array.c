@@ -14,15 +14,9 @@
  */
 void my_put_array(char **tab)
 {
-    int count = 0;
-    for (int i = 0; tab[i] != NULL; i++)
-        count++;
     for (int i = 0; tab[i] != NULL; i++) {
         my_putstr(tab[i]);
-        if (i == count - 1)
-            my_strcat(tab[i], "\0");
-        else
-            write(1, "\n", 1);
+        write(1, "\n", 1);
     }
 }
 
