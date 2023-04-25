@@ -16,7 +16,6 @@ Fonctions disponibles
     my_putchar : Affiche un caractère sur la sortie standard.
     my_putstr : Affiche une chaîne de caractères sur la sortie standard.
     my_square_root : Calcule la racine carrée d'un nombre.
-    my_sprintf : Convertit un entier en chaîne de caractères.
     my_str_to_word_array : Divise une chaîne de caractères en mots et stocke les mots dans un tableau.
     my_strcat : Concatène deux chaînes de caractères.
     my_strcmp : Compare deux chaînes de caractères.

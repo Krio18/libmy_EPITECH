@@ -30,7 +30,7 @@ OBJ	=	$(SRC:.c=.o)
 
 NAME = libmy.a
 
-CFLAGS += -g3 -Wall
+CFLAGS += -g3 -Wall -Werror -Iincludes
 
 LDFLAGS += -I ./include
 
