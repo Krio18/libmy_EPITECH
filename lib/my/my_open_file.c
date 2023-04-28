@@ -9,7 +9,8 @@
 
 /**
  * @brief
- * killian cottrelle | open and read a file, for put it in a buffer. (don't forget to free buffer)
+ * killian cottrelle | open and read a file, for put it in a buffer.
+ * (don't forget to free buffer)
  * @param ac
  * @param av
  * @param sb
@@ -20,7 +21,7 @@ char *open_file(int ac, char **av, struct stat *sb)
     char *buffer = malloc(sizeof(char) * (sb->st_size + 1));
     int fb = open(av[1], O_RDONLY);
     if (fb == -1)
-        return 84;
+        return buffer;
     read(fb, buffer, sb->st_size);
     buffer[sb->st_size] = '\0';
     close(fb);
