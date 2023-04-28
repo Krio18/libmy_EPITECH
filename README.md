@@ -27,6 +27,7 @@ Fonctions disponibles
     my_getenv : Renvoie la valeur de l'environnement associée à la chaîne de caractères spécifiée.
     my_strdup : Duplique une chaine de caractères.
     my_open_file : Ouvre et lis un fichier, retour le contenue du fichier stocké dans un buffer char *.
+    my_clean_str : fait en sorte qu'un str n'ai pas plusieur espace/tab a la suite.
 
 # Comment utiliser ces fonctions ?
 
