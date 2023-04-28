@@ -8,6 +8,7 @@
 SRC	=	my_getnbr.c	\
 		my_help_function.c	\
 		my_put_array.c	\
+		my_clean_str.c	\
 		my_put_nbr.c	\
 		my_putchar.c	\
 		my_putstr.c	\

@@ -18,6 +18,7 @@
     #include <fcntl.h>
     #include <sys/wait.h>
 
+    char *clear(char *str);
     int my_getnbr(char const *str);
     void help(char **av);
     void my_put_array(char **tab);
