@@ -13,7 +13,6 @@ SRC	=	my_getnbr.c	\
 		my_putchar.c	\
 		my_putstr.c	\
 		my_square_root.c	\
-		my_sprintf.c	\
 		my_str_to_word_array.c	\
 		my_strcpy.c	\
 		my_strlen.c	\
