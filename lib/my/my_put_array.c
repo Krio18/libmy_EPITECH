@@ -19,4 +19,3 @@ void my_put_array(char **tab)
         write(1, "\n", 1);
     }
 }
-
